@@ -1,0 +1,38 @@
+[
+    {
+        "id": "73738ecab0278cacdc1481a1649b147529de3a84",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "Web Player (Chrome)",
+        "type": "Computer",
+        "volume_percent": 100
+    },
+    {
+        "id": "dfbab450-c129-4798-99f6-084038b83f89",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "GRAMO-FAMILY",
+        "type": "AudioDongle",
+        "volume_percent": 39
+    },
+    {
+        "id": "e5cf989888dcf16fe8d7f983d48205ca74657d8e",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "ISZSPOT",
+        "type": "Speaker",
+        "volume_percent": 100
+    },
+    {
+        "id": "e923d76f2d7b4253ccf63ad6fe5640d1ccfd5311",
+        "is_active": false,
+        "is_private_session": false,
+        "is_restricted": false,
+        "name": "MOMSPOT",
+        "type": "Speaker",
+        "volume_percent": 100
+    }
+]

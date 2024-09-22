@@ -1,0 +1,26 @@
+<YAMAHA_AV rsp=\"GET\" RC=\"0\">
+    <Main_Zone>
+        <Config>
+            <Feature_Existence>1</Feature_Existence>
+            <Feature_Availability>Ready</Feature_Availability>
+            <Name>
+                <Zone>LOFT</Zone>
+                <Scene>
+                    <Scene_1>BD/DVD Movie Viewing</Scene_1>
+                    <Scene_2>TV Viewing</Scene_2>
+                    <Scene_3>CD Music Listening</Scene_3>
+                    <Scene_4>Radio Listening</Scene_4>
+                    <Scene_5>SCENE5</Scene_5>
+                    <Scene_6>SCENE6</Scene_6>
+                    <Scene_7>SCENE7</Scene_7>
+                    <Scene_8>SCENE8</Scene_8>
+                    <Scene_9>SCENE9</Scene_9>
+                    <Scene_10>SCENE10</Scene_10>
+                    <Scene_11>SCENE11</Scene_11>
+                    <Scene_12>SCENE12</Scene_12>
+                </Scene>
+            </Name>
+            <Volume_Existence>Exist</Volume_Existence>
+        </Config>
+    </Main_Zone>
+</YAMAHA_AV>

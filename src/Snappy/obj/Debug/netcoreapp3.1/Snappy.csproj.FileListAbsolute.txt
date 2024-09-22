@@ -1,0 +1,13 @@
+D:\Projects\gitisz\Snappy\src\Snappy\bin\Debug\netcoreapp3.1\Snappy.deps.json
+D:\Projects\gitisz\Snappy\src\Snappy\bin\Debug\netcoreapp3.1\Snappy.dll
+D:\Projects\gitisz\Snappy\src\Snappy\bin\Debug\netcoreapp3.1\Snappy.pdb
+D:\Projects\gitisz\Snappy\src\Snappy\obj\Debug\netcoreapp3.1\Snappy.AssemblyInfoInputs.cache
+D:\Projects\gitisz\Snappy\src\Snappy\obj\Debug\netcoreapp3.1\Snappy.AssemblyInfo.cs
+D:\Projects\gitisz\Snappy\src\Snappy\obj\Debug\netcoreapp3.1\Snappy.csproj.CoreCompileInputs.cache
+D:\Projects\gitisz\Snappy\src\Snappy\obj\Debug\netcoreapp3.1\Snappy.dll
+D:\Projects\gitisz\Snappy\src\Snappy\obj\Debug\netcoreapp3.1\Snappy.pdb
+D:\Projects\gitisz\Snappy\src\Snappy\bin\Debug\netcoreapp3.1\System.Reactive.dll
+D:\Projects\gitisz\Snappy\src\Snappy\bin\Debug\netcoreapp3.1\System.Reactive.xml
+D:\Projects\gitisz\Snappy\src\Snappy\obj\Debug\netcoreapp3.1\Snappy.csproj.CopyComplete
+D:\Projects\gitisz\Snappy\src\Snappy\obj\Debug\netcoreapp3.1\Snappy.csproj.AssemblyReference.cache
+D:\Projects\gitisz\Snappy\src\Snappy\obj\Debug\netcoreapp3.1\Snappy.GeneratedMSBuildEditorConfig.editorconfig

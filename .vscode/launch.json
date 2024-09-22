@@ -1,0 +1,56 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "SNAPPY.API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "Snappy.API",
+            "program": "${workspaceFolder}/src/Snappy.API/bin/Debug/netcoreapp3.1/Snappy.API.dll",
+            "cwd": "${workspaceFolder}/src/Snappy.API",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "DEV"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        },
+        {
+            "name": "SNAPPY.SOCKET",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "Snappy.Socket",
+            "program": "${workspaceFolder}/src/Snappy.Socket/bin/Debug/netcoreapp3.1/Snappy.Socket.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/Snappy.Socket",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "DEV"
+            },
+            "console": "internalConsole",
+            "requireExactSource": false,
+            "stopAtEntry": false,
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs": ["--ignore-certificate-errors"],
+            "name": "SNAPPY.UX",
+            "url": "http://localhost:4200",
+            "sourceMaps": true,
+            "webRoot": "${workspaceRoot}/src/Snappy.UX"
+        },
+        {
+            "name": "GO - Launch file",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "D:/Projects/gitisz/librespot-golang/main.go"
+        }
+    ]
+}

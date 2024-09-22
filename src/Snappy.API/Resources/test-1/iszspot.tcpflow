@@ -1,0 +1,207 @@
+010.010.010.249.56476-010.010.010.089.46495: ......
+010.010.010.249.56476-010.010.010.089.46495: GET /?action=getInfo HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56476: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:55:41 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56476-010.010.010.089.46495: ......
+010.010.010.249.56476-010.010.010.089.46495: ......
+010.010.010.249.56490-010.010.010.089.46495: ......
+010.010.010.249.56490-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56490: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:55:41 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56490-010.010.010.089.46495: ......
+010.010.010.249.56490-010.010.010.089.46495: ......
+010.010.010.249.56504-010.010.010.089.46495: ......
+010.010.010.249.56504-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56504: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:55:47 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56504-010.010.010.089.46495: ......
+010.010.010.249.56504-010.010.010.089.46495: ......
+010.010.010.249.56517-010.010.010.089.46495: ......
+010.010.010.249.56517-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56517: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:55:53 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56517-010.010.010.089.46495: ......
+010.010.010.249.56517-010.010.010.089.46495: ......
+010.010.010.249.56533-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56533: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:56:02 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56533-010.010.010.089.46495: ......
+010.010.010.249.56533-010.010.010.089.46495: ......
+010.010.010.249.56570-010.010.010.089.46495: ......
+010.010.010.249.56570-010.010.010.089.46495: GET /?action=getInfo HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56570: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:56:23 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56570-010.010.010.089.46495: ......
+010.010.010.249.56570-010.010.010.089.46495: ......
+010.010.010.249.56570-010.010.010.089.46495: ......
+010.010.010.249.56583-010.010.010.089.46495: ......
+010.010.010.249.56583-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56583: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:56:23 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56583-010.010.010.089.46495: ......
+010.010.010.249.56583-010.010.010.089.46495: ......
+010.010.010.249.56596-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56596: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:56:27 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56596-010.010.010.089.46495: ......
+010.010.010.249.56596-010.010.010.089.46495: ......
+010.010.010.249.56605-010.010.010.089.46495: ......
+010.010.010.249.56605-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56605: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:56:30 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56605-010.010.010.089.46495: ......
+010.010.010.249.56605-010.010.010.089.46495: ......
+010.010.010.249.56605-010.010.010.089.46495: ......
+010.010.010.249.56606-010.010.010.089.46495: ......
+010.010.010.249.56606-010.010.010.089.46495: POST / HTTP/1.1
+Content-Length: 677
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+action=addUser&userName=bmwmom&blob=bK%2FFOfsB0PYtp%2B%2Fko5POfo05yp5KpeXtu9%2FrKD1Rj%2Fg3FfOSodKiW1kVn9bP6O20vExTh%2FiUGJ2wIiHwy0O9bak5woQPLOnm5Z1bPuVIiot7CYCWTjuZImPTt4HodxJ23MU5LbU%2FcUv67UE9Z4SyMl%2FeoTCDhTCFpkWHp%2FEUSU9SacV%2Bkd9QRpXF9nhkAsLWLFarZTagC13vhwr%2BYgmmkRrYCkpJD0NlkfErrCtL8SsvpTTNLiXaIsm7rboPZwSsiO7E7xlIrV63840YLl6Fc2vYNnlxr7dgdrp%2BoYR%2B6647ptp8nE1N9OPUQYiIz9yQd6r43XHeoYNEI0oS&clientKey=%2FN6a5DbRIBlR4QEjyWNL0%2Bgo7wEJEhJpcIUdA62WYyZShFql5FjzDGBRnkrmuQIJCmSxqW8GpGeDca42X8VBinP08rx%2FOJEn9ArGRa%2FnrcRGiZ29MsG%2BjzKXKN2GFTsh&loginId=19f85f9ff03b9cbeefdb166033041668&deviceName=OFFICE-LENOVO&deviceId=937adda5a0c42b1e8127929d6575c186f57d1eaf&version=2.7.1
+010.010.010.089.46495-010.010.010.249.56606: HTTP/1.1 200 OK
+content-length: 57
+date: Sun, 08 May 2022 13:56:30 GMT
+
+{"spotifyError":0,"status":101,"statusString":"ERROR-OK"}
+010.010.010.249.56606-010.010.010.089.46495: ......
+010.010.010.249.56606-010.010.010.089.46495: ......
+010.010.010.249.56606-010.010.010.089.46495: ......
+010.010.010.249.56608-010.010.010.089.46495: ......
+010.010.010.249.56608-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56608: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:56:32 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56608-010.010.010.089.46495: ......
+010.010.010.249.56608-010.010.010.089.46495: ......
+010.010.010.249.56620-010.010.010.089.46495: ......
+010.010.010.249.56620-010.010.010.089.46495: GET /?action=getInfo&version=2.7.1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Spotify/118400716 Win32/0 (PC laptop)
+Host: 10.10.10.89:46495
+Keep-Alive: 0
+Accept-Encoding: gzip
+Connection: keep-alive
+
+
+010.010.010.089.46495-010.010.010.249.56620: HTTP/1.1 200 OK
+content-length: 507
+date: Sun, 08 May 2022 13:56:36 GMT
+
+{"accountReq":"PREMIUM","activeUser":"","brandDisplayName":"librespot","deviceID":"e5cf989888dcf16fe8d7f983d48205ca74657d8e","deviceType":"Speaker","groupStatus":"NONE","libraryVersion":"0.3.1","modelDisplayName":"librespot","publicKey":"tZqcJjBjwsrLYHPQpu1HP6FFWZy8sMHqES0v0mDVI5MlMPuzP5lxijmp/Tgd/MP04AjGFTQ2zC92+dq6/cVaFC8wPNrQF0nwmbj2EaSx71uaAO9Yn3mjV1xGKuim14FZ","remoteName":"ISZSPOT","resolverVersion":"0","spotifyError":0,"status":101,"statusString":"ERROR-OK","version":"2.7.1","voiceSupport":"NO"}
+010.010.010.249.56620-010.010.010.089.46495: ......
+010.010.010.249.56620-010.010.010.089.46495: ......
+root@snapserver:/home/administrator#

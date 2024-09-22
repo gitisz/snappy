@@ -1,0 +1,41 @@
+<YAMAHA_AV rsp=\"GET\" RC=\"0\">
+    <Main_Zone>
+        <Basic_Status>
+            <Power_Control>
+                <Power>On</Power>
+                <Sleep>Off</Sleep>
+            </Power_Control>
+            <Volume>
+                <Lvl>
+                    <Val>-220</Val>
+                    <Exp>1</Exp>
+                    <Unit>dB</Unit>
+                </Lvl>
+                <Mute>Off</Mute>
+            </Volume>
+            <Input>
+                <Input_Sel>AV1</Input_Sel>
+                <Current_Input_Sel_Item>
+                    <Param>AV1</Param>
+                    <RW>RW</RW>
+                    <Title>AV1</Title>
+                    <Icon>
+                        <On>/YamahaRemoteControl/Icons/icon007.png</On>
+                        <Off>/YamahaRemoteControl/Icons/icon006.png</Off>
+                    </Icon>
+                    <Src_Name></Src_Name>
+                    <Src_Number>1</Src_Number>
+                </Current_Input_Sel_Item>
+            </Input>
+            <Surround>
+                <Program_Sel>
+                    <Current>
+                        <Straight>Off</Straight>
+                        <Enhancer>On</Enhancer>
+                        <Sound_Program>7ch Stereo</Sound_Program>
+                    </Current>
+                </Program_Sel>
+            </Surround>
+        </Basic_Status>
+    </Main_Zone>
+</YAMAHA_AV>

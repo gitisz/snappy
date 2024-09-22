@@ -1,0 +1,64 @@
+2024-09-22 02:39:42.870 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 0.5328 ms
+2024-09-22 02:39:42.872 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 0.1414 ms
+2024-09-22 02:39:42.873 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 4.5497 ms
+2024-09-22 02:39:42.877 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 0.1400 ms
+2024-09-22 02:39:42.877 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 0.0613 ms
+2024-09-22 02:39:42.878 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 0.0456 ms
+2024-09-22 02:39:43.899 -04:00 [INF] HTTP POST /Spotify/GetCurrentlyPlaying/ISZSPOT responded 200 in 1027.4026 ms
+2024-09-22 02:39:43.925 -04:00 [INF] HTTP POST /Spotify/CurrentPlayback/ISZSPOT responded 200 in 1056.7401 ms
+2024-09-22 02:39:44.332 -04:00 [INF] SnappyHubClient. OnConnectedAsync: m4HaHjhx-addWgYUyXyWhA
+2024-09-22 02:39:44.346 -04:00 [INF] SnappyHubClient. OnConnectedAsync: YfM36QCmXm6wlAb6He7BRA
+2024-09-22 02:39:44.353 -04:00 [INF] SnappyHubClient. OnConnectedAsync: I9BUlrP8bBOZOpvavhCF-g
+2024-09-22 02:39:44.366 -04:00 [INF] SnappyHubClient. OnConnectedAsync: S_0VyBe6H9luHIjh8VPgjQ
+2024-09-22 02:39:44.386 -04:00 [INF] SnappyHubClient.OnDisconnectedAsync: m4HaHjhx-addWgYUyXyWhA
+2024-09-22 02:39:44.387 -04:00 [INF] HTTP GET /snappy/hub?id=uTHna16yC4oSOSURnx85ow responded 101 in 75.7680 ms
+2024-09-22 02:39:44.390 -04:00 [INF] HTTP GET /snappy/hub?id=rw_tiSWcTwm4W7ujd-d8BQ responded 101 in 24.1159 ms
+2024-09-22 02:39:44.393 -04:00 [INF] SnappyHubClient.OnDisconnectedAsync: YfM36QCmXm6wlAb6He7BRA
+2024-09-22 02:39:44.393 -04:00 [INF] SnappyHubClient.OnDisconnectedAsync: I9BUlrP8bBOZOpvavhCF-g
+2024-09-22 02:39:44.397 -04:00 [INF] HTTP GET /snappy/hub?id=UaX8uk5U7csZSNRDc-Jk8g responded 101 in 73.6122 ms
+2024-09-22 02:39:44.397 -04:00 [INF] HTTP GET /snappy/hub?id=yhI6_Vna3zyjJKxTkyN4oQ responded 101 in 59.9918 ms
+2024-09-22 02:39:44.428 -04:00 [INF] SnappyHubClient.OnDisconnectedAsync: S_0VyBe6H9luHIjh8VPgjQ
+2024-09-22 02:39:44.432 -04:00 [INF] HTTP GET /snappy/hub?id=oyYwfR-f7ZlIlRCBLneXTg responded 101 in 81.7116 ms
+2024-09-22 02:39:44.435 -04:00 [INF] HTTP GET /snappy/hub?id=qCQa-Sum-fQRywAPegD5rg responded 101 in 48.6352 ms
+2024-09-22 02:39:50.182 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 0.1927 ms
+2024-09-22 02:39:50.243 -04:00 [INF] SnappyHubClient. OnConnectedAsync: Knadi8nuyL4lYGG0rxhp3g
+2024-09-22 02:39:50.262 -04:00 [INF] SnappyHubClient.GetStreamsAsync
+2024-09-22 02:39:50.263 -04:00 [INF] Start processing HTTP request POST "http://snapserver-direct.iszland.com:1780/jsonrpc"
+2024-09-22 02:39:50.266 -04:00 [INF] Sending HTTP request POST "http://snapserver-direct.iszland.com:1780/jsonrpc"
+2024-09-22 02:39:50.316 -04:00 [INF] Received HTTP response headers after 45.9082ms - 200
+2024-09-22 02:39:50.320 -04:00 [INF] End processing HTTP request after 56.951ms - 200
+2024-09-22 02:39:50.324 -04:00 [INF] SnappyHubClient.GetGroupsAsync
+2024-09-22 02:39:50.325 -04:00 [INF] Start processing HTTP request POST "http://snapserver-direct.iszland.com:1780/jsonrpc"
+2024-09-22 02:39:50.328 -04:00 [INF] Sending HTTP request POST "http://snapserver-direct.iszland.com:1780/jsonrpc"
+2024-09-22 02:39:50.358 -04:00 [INF] Received HTTP response headers after 26.3478ms - 200
+2024-09-22 02:39:50.361 -04:00 [INF] End processing HTTP request after 36.3517ms - 200
+2024-09-22 02:39:50.468 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 0.2576 ms
+2024-09-22 02:39:50.712 -04:00 [INF] HTTP GET /Yamaha/Zone_2/Config/MOVIES responded 200 in 176.2419 ms
+2024-09-22 02:39:50.757 -04:00 [INF] SnappyHubClient. OnConnectedAsync: jG43zpeU_aAmDK2wm-JVUg
+2024-09-22 02:39:50.762 -04:00 [INF] SnappyHubClient.AddToGroupAsync: MOVIES
+2024-09-22 02:39:50.788 -04:00 [INF] HTTP GET /Yamaha/Main_Zone/Config/MOVIES responded 200 in 252.4788 ms
+2024-09-22 02:39:50.805 -04:00 [INF] HTTP POST /Spotify/GetAvailableDevices/ISZSPOT responded 200 in 322.8260 ms
+2024-09-22 02:39:50.862 -04:00 [INF] HTTP GET /Yamaha/Main_Zone/BasicStatus/MOVIES responded 200 in 330.3110 ms
+2024-09-22 02:39:50.939 -04:00 [INF] HTTP GET /Yamaha/Zone_3/BasicStatus/MOVIES responded 200 in 403.9390 ms
+2024-09-22 02:39:51.013 -04:00 [INF] HTTP GET /Yamaha/Zone_2/BasicStatus/MOVIES responded 200 in 473.7853 ms
+2024-09-22 02:39:51.058 -04:00 [INF] HTTP GET /Yamaha/Zone_3/Config/MOVIES responded 200 in 341.5900 ms
+2024-09-22 02:39:52.953 -04:00 [INF] HTTP POST /Spotify/CurrentPlayback/ISZSPOT responded 200 in 256.2763 ms
+2024-09-22 02:39:52.958 -04:00 [INF] HTTP POST /Spotify/GetCurrentlyPlaying/ISZSPOT responded 200 in 261.9268 ms
+2024-09-22 02:39:53.922 -04:00 [INF] HTTP POST /Spotify/GetCurrentlyPlaying/ISZSPOT responded 200 in 216.6314 ms
+2024-09-22 02:39:53.924 -04:00 [INF] HTTP POST /Spotify/CurrentPlayback/ISZSPOT responded 200 in 218.9657 ms
+2024-09-22 02:39:55.912 -04:00 [INF] HTTP POST /Spotify/CurrentPlayback/ISZSPOT responded 200 in 207.6629 ms
+2024-09-22 02:39:55.914 -04:00 [INF] HTTP POST /Spotify/GetCurrentlyPlaying/ISZSPOT responded 200 in 210.5090 ms
+2024-09-22 02:39:56.923 -04:00 [INF] HTTP POST /Spotify/GetCurrentlyPlaying/ISZSPOT responded 200 in 219.8369 ms
+2024-09-22 02:39:56.938 -04:00 [INF] HTTP POST /Spotify/CurrentPlayback/ISZSPOT responded 200 in 234.9909 ms
+2024-09-22 02:39:59.778 -04:00 [INF] SnappyHubClient.OnDisconnectedAsync: Knadi8nuyL4lYGG0rxhp3g
+2024-09-22 02:39:59.780 -04:00 [INF] SnappyHubClient.OnDisconnectedAsync: jG43zpeU_aAmDK2wm-JVUg
+2024-09-22 02:39:59.780 -04:00 [INF] HTTP GET /snappy/hub?id=4mLUdsSOTKqj1Yjff3438A responded 101 in 9541.7649 ms
+2024-09-22 02:39:59.782 -04:00 [INF] HTTP GET /snappy/hub?id=-OY1qKQ1cbZNBkPwBurzBw responded 101 in 9032.4752 ms
+2024-09-22 03:28:44.824 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 0.1630 ms
+2024-09-22 03:28:44.842 -04:00 [INF] HTTP POST /snappy/hub/negotiate?negotiateVersion=1 responded 200 in 6.8177 ms
+2024-09-22 03:28:44.889 -04:00 [INF] SnappyHubClient. OnConnectedAsync: IcV4cZxT59qgcPQlC4ro_Q
+2024-09-22 03:28:44.971 -04:00 [INF] SnappyHubClient. OnConnectedAsync: FpAQXuvusoVKnbWFukZiig
+2024-09-22 03:28:45.205 -04:00 [INF] HTTP POST /Spotify/GetCurrentlyPlaying/ISZSPOT responded 200 in 419.7245 ms
+2024-09-22 03:28:45.205 -04:00 [INF] HTTP POST /Spotify/CurrentPlayback/ISZSPOT responded 200 in 419.7767 ms
+2024-09-22 03:28:46.906 -04:00 [INF] HTTP POST /Spotify/CurrentPlayback/ISZSPOT responded 200 in 205.2497 ms
+2024-09-22 03:28:46.917 -04:00 [INF] HTTP POST /Spotify/GetCurrentlyPlaying/ISZSPOT responded 200 in 216.3473 ms

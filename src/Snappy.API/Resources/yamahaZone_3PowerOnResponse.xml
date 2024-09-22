@@ -1,0 +1,7 @@
+<YAMAHA_AV rsp=\"PUT\" RC=\"0\">
+    <Zone_3>
+        <Power_Control>
+            <Power></Power>
+        </Power_Control>
+    </Zone_3>
+</YAMAHA_AV>
